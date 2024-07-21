@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ADVENTURES</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="aa">
+    
+      
+        <img class="ab" src="./ima/logo.jpeg" alt="mesa">
+        <h1> GOOD TIME'S  ADVENTURES</h1>
+        <div class="ac">
+            
+             <a href="sign-in.html"> <button  class="ad">sign-in</button></a>
+              <a href="sign-up.html"> <button class="ad">sign-up</button></a>
+               <a href="about.html"><button  class="ad">about</button></a>
+               <a href="contact.html"><button class="ad">contact</button></a>
+
+                <!-- <link class="ad"> sign-up<link/>
+                <link class="ad"> about<link/>
+                <link class="ad"> conctact<link/> -->
+            
+        </div>
+    
+</div>
+    <main>
+        
+        <section id="adventure-list-section">
+            <h2 class="ai"> PLACES TO VENTURE </h2>
+            <div id="adventure-list"></div>
+        </section>
+        <section id="adventure-form-section">
+            <h2>CREATE NEW DISCOVERED PLACES TO VISIT</h2>
+            <form id="adventure-form">
+                <label for="title">Title:</label>
+                <input type="text" id="title" name="title" required>
+                
+                <label for="location">Location:</label>
+                <input type="text" id="location" name="location" required>
+                
+                <label for="description">Description:</label>
+                <textarea id="description" name="description" required></textarea>
+                
+                <label for="imageUrls">Image URLs (comma separated):</label>
+                <input type="text" id="imageUrls" name="imageUrls" required>
+                
+                <label for="videoUrls">Video URLs (comma separated):</label>
+                <input type="text" id="videoUrls" name="videoUrls">
+                
+                <label for="entranceFee">Entrance Fee:</label>
+                <input type="text" id="entranceFee" name="entranceFee" required>
+                
+                <label for="activities">Activities (comma separated):</label>
+                <input type="text" id="activities" name="activities" required>
+                
+                <label for="facilities">Facilities (comma separated):</label>
+                <input type="text" id="facilities" name="facilities" required>
+                
+                <label for="usefulInformation">Useful Information:</label>
+                <textarea id="usefulInformation" name="usefulInformation" required></textarea>
+                
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,458 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://images.pexels.com/photos/301375/pexels-photo-301375.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-color: #02182b;
+    background-attachment: fixed;
+    background-size: 1400px 400px;
+  
+    
+   
+    
+}
+h2{
+    color: #ccc;
+    text-align: center;
+}
+
+.aa {
+    display: flex;
+    flex : 1;
+    background-color: #8a8b41;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-top: 15px;
+    width: 1100px;
+    height: 50px;
+ 
+}
+.ai{
+    color: azure;
+    text-decoration: underline;
+}
+.ab{
+    width: 40px;
+    height: 40px;
+    border-radius: 35px;
+}
+.ac{
+    
+width: 350px;
+justify-content: space-around;
+}
+
+
+
+
+.ad:hover{
+    background-color: rgb(16, 54, 54);
+    justify-content: space-around;
+margin-left: 10px;
+color: aquamarine;
+    
+    
+}
+main {
+    padding: 4rem;
+    margin-left: 15px;
+    margin-right: 15px;
+  
+   
+}
+
+#adventure-form-section {
+    /* background-color: rgb(31, 29, 29); */
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    margin-bottom: 2rem;
+    /* height: 500px; */
+   
+}
+#adventure-form {
+    background-color: rgb(205, 230, 226);
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   width: 800px;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin-left: 150px;
+   
+}
+
+#adventure-form h2 {
+    margin-top: 0;
+}
+.b{
+    margin-left: 300px;
+    border-radius: 10px;
+}
+.pa{
+margin-top: 70px;
+margin-left: 120px;
+}
+.m{
+    display: block;
+    width: 700px;
+    background-color: #53928f;
+    margin-top: 45px;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    margin-left: 250px;
+    border-radius: 20px;
+    
+}
+.o{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+   height: 500px;
+    width: 710px;
+    background-color: rgb(21, 48, 48);
+    margin-top: 10px;
+    color: #ccc;
+    border-radius: 15px;
+    margin-bottom: 25px;
+
+    
+}
+.bta{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.about{
+    width: 900px;
+    
+    height: 300px;
+    margin-left: 150px;
+}
+.footer{
+    height: 15px;
+}
+
+.hi{
+    /* background-color: #676a6d; */
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    padding: 7px;
+    margin-bottom: 75px;
+    justify-content: space-around;
+    
+}
+.d{
+    padding: 8px;
+    text-align: center;
+}
+#username{
+    height: 25px;
+    border-radius: 10px;
+}
+#email{
+    height: 25px; 
+    border-radius: 10px;
+}
+#confirm-password{
+    height: 25px; 
+    margin-bottom: 19px;
+    border-radius: 10px;
+}
+.h1{
+    text-align: center;
+    text-decoration: underline;
+}
+#password{
+    height: 25px; 
+    border-radius: 10px; 
+}
+.sub{
+    width: 70px;
+    margin-left: 300px;
+    padding: 5px;
+    border-radius: 10px;
+}
+/* .bt{
+    margin-left: 170px;
+    border-radius: 10px;
+    padding: 5px;
+} */
+
+.f{
+
+margin-left: 300px;
+
+}
+
+.ff{
+background-color: rgba(8, 31, 31, 0.877);
+border-radius: 15px;
+padding: 10px;   
+color: #ccc;
+}
+
+#adventure-form label {
+ 
+    margin: 0.5rem 0 0.2rem;
+}
+
+#adventure-form input, 
+#adventure-form textarea {
+    padding: 4px;
+    border: 1px solid #437381;
+    border-radius: 6px;
+    font-size: 1rem;
+    
+    
+}
+
+#adventure-form textarea {
+    resize: vertical;
+    
+}
+
+#adventure-form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1.1rem;
+
+}
+
+#adventure-form button:hover {
+    background-color: #416e7a;
+}
+
+#adventure-list {
+    display: grid;
+    grid-template-columns:  2fr 2fr;
+    gap: 1.5rem;
+  
+}
+
+.adventure-card {
+    background-color: rgb(20, 20, 7);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+    color: rgb(176, 224, 224);
+   
+    
+}
+#adventure-form input, 
+#adventure-form textarea, 
+#adventure-form button {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.adventure-card:hover {
+    transform: scale(1.05);
+}
+
+.adventure-card img,
+.adventure-card video {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.adventure-card-content {
+    padding: 1rem;
+}
+
+.adventure-card h2 {
+    margin: 0 0 0.5rem;
+}
+
+.adventure-card p {
+    margin: 0.5rem 0;
+    line-height: 1.5;
+}
+
+.adventure-card button {
+    background-color: #324d58;
+    color: white;
+    padding: 0.3rem 0.6rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-right: 0.5rem;
+}
+
+.adventure-card button:hover {
+    background-color: #416e7a;
+}
+
+footer {
+    background-color: #53928f;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 25px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.about{
+    color: azure;
+}
+.signin h1 {
+    color: #007BFF;
+}
+
+.signin form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signin label {
+    margin: 0.5em 0 0.2em;
+    font-weight: bold;
+}
+
+.signin input {
+    padding: 0.5em;
+    width: 80%;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.signin {
+    text-align: center;
+}
+.signin button {
+    padding: 0.7em 2em;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.signin button:hover {
+    background-color: #0056b3;
+}
+
+.signin p {
+    margin-top: 1em;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+.cmain {
+    margin-bottom: 10px;
+    padding: 2em;
+    max-width: 600px;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.ds{
+    margin-left: 700px;
+    border-radius: 15px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact h1 {
+    color: #007BFF;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact label {
+    margin: 0.5em 0 0.2em;
+    font-weight: bold;
+}
+
+.contact input, .contact textarea {
+    padding: 0.5em;
+    width: 80%;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact button {
+    padding: 0.7em 2em;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact button:hover {
+    background-color: #0056b3;
+}
+
+.contact p {
+    margin-top: 1em;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 1em;
+}
+
+.social-media a img {
+    width: 40px;
+    height: 40px;
+}
+
+.cfooter {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 50px;
+}

@@ -1,0 +1,440 @@
+{
+  "nationalParks": [
+    {
+      "title": "Grand Canyon National Park",
+      "location": "Arizona",
+      "description": "Grand Canyon National Park, in Arizona, is home to the immense Grand Canyon, with its layered bands of red rock revealing millions of years of geological history.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/grandcanyon2.jpg"
+      ],
+      "entranceFee": "$35 per vehicle",
+      "activities": [
+        "Hiking",
+        "Rafting",
+        "Helicopter Tours",
+        "Mule Rides",
+        "Camping"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Campgrounds",
+        "Lodges",
+        "Restaurants",
+        "Shuttle Buses"
+      ],
+      "usefulInformation": "The Grand Canyon is 277 miles long, up to 18 miles wide, and attains a depth of over a mile.",
+      "id": "1245"
+    },
+    {
+      "title": "Zion National Park",
+      "location": "Utah",
+      "description": "Zion National Park is known for its steep red cliffs, forest trails along the Virgin River, and the Emerald Pools with waterfalls and hanging gardens.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/3363331/pexels-photo-3363331.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/zion2.jpg"
+      ],
+      "entranceFee": "$35 per vehicle",
+      "activities": [
+        "Hiking",
+        "Canyoneering",
+        "Bird Watching",
+        "Camping",
+        "Horseback Riding"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Campgrounds",
+        "Lodges",
+        "Restrooms",
+        "Shuttle Buses"
+      ],
+      "usefulInformation": "Zion's unique geography and variety of life zones allow for unusual plant and animal diversity.",
+      "id": "f827"
+    },
+    {
+      "title": "Glacier National Park",
+      "location": "Montana",
+      "description": "Glacier National Park is a wilderness area in Montana's Rocky Mountains, with glacier-carved peaks and valleys running to the Canadian border.",
+      "imageUrls": [
+        "https://media.istockphoto.com/id/1416834065/photo/african-elephant-walking-with-tourist-car-stop-by-watching-during-sunset-at-masai-mara.jpg?s=1024x1024&w=is&k=20&c=qZeH00eyxogq2YUyzAScm9ebhukvko3crVbLZxzEoCg=",
+        "https://example.com/images/glacier2.jpg"
+      ],
+      "entranceFee": "$35 per vehicle",
+      "activities": [
+        "Hiking",
+        "Camping",
+        "Fishing",
+        "Boating",
+        "Wildlife Viewing"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Campgrounds",
+        "Lodges",
+        "Restrooms",
+        "Picnic Areas"
+      ],
+      "usefulInformation": "Glacier National Park has over 700 miles of hiking trails and is known as the Crown of the Continent.",
+      "id": "6cf0"
+    },
+    {
+      "title": "Yellowstone National Park",
+      "location": "Wyoming, USA",
+      "description": "Yellowstone is known for its geothermal features and diverse wildlife. It offers a variety of outdoor activities and stunning landscapes.",
+      "imageUrls": [
+        "https://media.istockphoto.com/id/474984417/photo/african-elephant.jpg?b=1&s=612x612&w=0&k=20&c=Jhqr0cJ_OYJojtqbE1MOg3YLMnpeQ3hCNQOoUjbtcbA=",
+        "https://example.com/images/yellowstone2.jpg"
+      ],
+      "entranceFee": "$35 per vehicle",
+      "activities": [
+        "Hiking",
+        "Camping",
+        "Wildlife Viewing",
+        "Fishing",
+        "Boating",
+        "Geothermal Features Tour"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Campgrounds",
+        "Picnic Areas",
+        "Lodging",
+        "Gift Shops"
+      ],
+      "usefulInformation": [
+        "Open year-round, though some areas may be inaccessible in winter.",
+        "Bear spray is recommended for hiking.",
+        "Cell phone coverage is limited."
+      ],
+      "id": "d040"
+    },
+    {
+      "title": "Kruger National Park",
+      "location": "Limpopo and Mpumalanga, South Africa",
+      "description": "Kruger National Park is one of Africa's largest game reserves, known for its high density of wild animals including the Big Five.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/1867601/pexels-photo-1867601.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/kruger2.jpg"
+      ],
+      "entranceFee": "ZAR 400 per person per day",
+      "activities": [
+        "Game Drives",
+        "Walking Safaris",
+        "Bird Watching",
+        "Camping",
+        "Cultural Tours"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Campgrounds",
+        "Picnic Areas",
+        "Lodging",
+        "Gift Shops",
+        "Restaurants"
+      ],
+      "usefulInformation": [
+        "Best time to visit is during the dry season (May to September).",
+        "Malaria precautions recommended.",
+        "Guided tours are available for a more informative experience."
+      ],
+      "id": "c7b4"
+    },
+    {
+      "title": "Great Barrier Reef Marine Park",
+      "location": "Queensland, Australia",
+      "description": "The Great Barrier Reef is the world's largest coral reef system, offering unique marine life experiences and breathtaking underwater views.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/1784577/pexels-photo-1784577.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/greatbarrierreef2.jpg"
+      ],
+      "entranceFee": "AUD 6.50 per person per day",
+      "activities": [
+        "Snorkeling",
+        "Scuba Diving",
+        "Glass-bottom Boat Tours",
+        "Fishing",
+        "Island Hopping"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Boat Ramps",
+        "Picnic Areas",
+        "Lodging",
+        "Gift Shops"
+      ],
+      "usefulInformation": [
+        "Best time to visit is from June to October.",
+        "Protective measures for coral conservation are in place.",
+        "Various tour operators offer different types of reef experiences."
+      ],
+      "id": "8a44"
+    },
+    {
+      "title": "Fiordland National Park",
+      "location": "Southland, New Zealand",
+      "description": "Fiordland National Park is famous for its fiords, especially Milford Sound and Doubtful Sound, offering breathtaking scenery and diverse wildlife.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/957079/hintersee-ramsau-berchtesgaden-bavaria-957079.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/fiordland2.jpg"
+      ],
+      "entranceFee": "Free",
+      "activities": [
+        "Hiking",
+        "Kayaking",
+        "Cruises",
+        "Wildlife Viewing",
+        "Fishing"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Campgrounds",
+        "Picnic Areas"
+      ],
+      "usefulInformation": [
+        "Milford Track is one of New Zealand's Great Walks.",
+        "Weather can be wet; waterproof gear is essential.",
+        "Sandflies can be problematic; insect repellent is recommended."
+      ],
+      "id": "8d89"
+    },
+    {
+      "title": "Yellowstone National Park",
+      "location": "Wyoming, USA",
+      "description": "Yellowstone is known for its geothermal features and diverse wildlife. It offers a variety of outdoor activities and stunning landscapes.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/830964/pexels-photo-830964.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/yellowstone2.jpg"
+      ],
+      "entranceFee": "$35 per vehicle",
+      "activities": [
+        "Hiking",
+        "Camping",
+        "Wildlife Viewing",
+        "Fishing",
+        "Boating",
+        "Geothermal Features Tour"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Campgrounds",
+        "Picnic Areas",
+        "Lodging",
+        "Gift Shops"
+      ],
+      "usefulInformation": [
+        "Open year-round, though some areas may be inaccessible in winter.",
+        "Bear spray is recommended for hiking.",
+        "Cell phone coverage is limited."
+      ],
+      "id": "9e06"
+    },
+    {
+      "title": "Great Barrier Reef Marine Park",
+      "location": "Queensland, Australia",
+      "description": "The Great Barrier Reef is the world's largest coral reef system, offering unique marine life experiences and breathtaking underwater views.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/219962/pexels-photo-219962.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/greatbarrierreef2.jpg"
+      ],
+      "entranceFee": "AUD 6.50 per person per day",
+      "activities": [
+        "Snorkeling",
+        "Scuba Diving",
+        "Glass-bottom Boat Tours",
+        "Fishing",
+        "Island Hopping"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Boat Ramps",
+        "Picnic Areas",
+        "Lodging",
+        "Gift Shops"
+      ],
+      "usefulInformation": [
+        "Best time to visit is from June to October.",
+        "Protective measures for coral conservation are in place.",
+        "Various tour operators offer different types of reef experiences."
+      ],
+      "id": "1d41"
+    },
+    {
+      "title": "Serengeti National Park",
+      "location": "Tanzania",
+      "description": "Serengeti National Park is renowned for its annual migration of over 1.5 million white-bearded wildebeest and 250,000 zebra and for its numerous Nile crocodile.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/5615406/pexels-photo-5615406.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/serengeti2.jpg"
+      ],
+      "entranceFee": "USD 60 per person per day",
+      "activities": [
+        "Game Drives",
+        "Hot Air Balloon Rides",
+        "Bird Watching",
+        "Camping",
+        "Cultural Tours"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Campgrounds",
+        "Lodging",
+        "Gift Shops",
+        "Restaurants"
+      ],
+      "usefulInformation": [
+        "Best time to visit is during the dry season (June to October).",
+        "Malaria precautions recommended.",
+        "Guided tours enhance the experience and increase wildlife sightings."
+      ],
+      "id": "7b8d"
+    },
+    {
+      "title": "Jasper National Park",
+      "location": "Alberta, Canada",
+      "description": "Jasper National Park is the largest national park in the Canadian Rockies, known for its vast wilderness, majestic peaks, and abundant wildlife.",
+      "imageUrls": [
+        "https://images.pexels.com/photos/3566237/pexels-photo-3566237.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://example.com/images/jasper2.jpg"
+      ],
+      "entranceFee": "CAD $10.50 per person per day",
+      "activities": [
+        "Hiking",
+        "Wildlife Viewing",
+        "Skiing",
+        "Camping",
+        "Star Gazing"
+      ],
+      "facilities": [
+        "Visitor Centers",
+        "Restrooms",
+        "Campgrounds",
+        "Picnic Areas",
+        "Lodging",
+        "Gift Shops"
+      ],
+      "usefulInformation": [
+        "Home to the world-renowned Columbia Icefield.",
+        "Dark Sky Preserve for stargazing enthusiasts.",
+        "Weather can be unpredictable; come prepared for all conditions."
+      ],
+      "id": "cb62"
+    },
+    {
+      "id": "e56d",
+      "title": "maunt everest",
+      "location": "canada",
+      "description": "cool place",
+      "imageUrls": [
+        "https://images.pexels.com/photos/248195/pexels-photo-248195.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "videoUrls": [
+        "https://www.youtube.com/embed/H9-OOl_9r6I?si=vzj1iV9JVfJHLNKl"
+      ],
+      "entranceFee": "1000",
+      "activities": [
+        "hiking"
+      ],
+      "facilities": [
+        "horse ridding"
+      ],
+      "usefulInformation": "safe",
+      "comments": [
+        "hey",
+        "hello",
+        "live",
+        "anguka nayo",
+        "godha",
+        "IVY TOURS"
+      ],
+      "bookings": 79,
+      "likes": 20,
+      "likeDates": [
+        "2024-07-19T07:10:25.100Z",
+        "2024-07-19T08:08:56.386Z",
+        "2024-07-19T08:09:01.599Z",
+        "2024-07-19T08:09:33.048Z",
+        "2024-07-19T08:09:37.352Z",
+        "2024-07-19T08:09:41.007Z",
+        "2024-07-19T08:09:44.717Z",
+        "2024-07-19T08:10:12.344Z",
+        "2024-07-19T08:10:14.251Z",
+        "2024-07-19T08:10:18.024Z",
+        "2024-07-19T08:10:22.001Z",
+        "2024-07-19T08:10:24.322Z",
+        "2024-07-19T08:10:27.701Z",
+        "2024-07-19T08:49:44.153Z",
+        "2024-07-19T08:49:49.153Z",
+        "2024-07-19T08:57:31.360Z",
+        "2024-07-19T09:28:11.470Z",
+        "2024-07-19T09:28:15.312Z",
+        "2024-07-19T16:08:09.631Z",
+        "2024-07-19T16:08:12.172Z"
+      ]
+    },
+    {
+      "id": "d213",
+      "title": "MK",
+      "location": "kenya",
+      "description": "DE",
+      "imageUrls": [
+        "https://images.pexels.com/photos/301375/pexels-photo-301375.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "videoUrls": [
+        "https://images.pexels.com/photos/301375/pexels-photo-301375.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "entranceFee": "1000",
+      "activities": [
+        "nice view and relaxing"
+      ],
+      "facilities": [
+        "rooms"
+      ],
+      "usefulInformation": "DS",
+      "comments": [
+        "HI"
+      ],
+      "bookings": 2,
+      "likes": 1,
+      "likeDates": [
+        "2024-07-19T09:46:07.472Z"
+      ]
+    },
+    {
+      "id": "f005",
+      "title": "KILIMANGARO",
+      "location": "kenya",
+      "description": "IT IS A NICE PLACE",
+      "imageUrls": [
+        "https://images.pexels.com/photos/15067373/pexels-photo-15067373/free-photo-of-himalayan-mountain-range-in-nepal.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "videoUrls": [
+        "https://www.youtube.com/embed/H9-OOl_9r6I?si=Zv3TmtRy6uYXQXMJ"
+      ],
+      "entranceFee": "1000",
+      "activities": [
+        "nice view and relaxing"
+      ],
+      "facilities": [
+        "rooms"
+      ],
+      "usefulInformation": "SAFE",
+      "comments": [
+        "HI"
+      ],
+      "bookings": 1,
+      "likes": 2,
+      "likeDates": [
+        "2024-07-19T16:12:14.355Z",
+        "2024-07-19T16:13:28.277Z"
+      ]
+    }
+  ]
+}
